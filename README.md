@@ -5,8 +5,11 @@ DRONES AND SATELLITES FOR URBAN DEVELOPMENT
 
 # Team members:
 Dlouhi Federico DNI 30223471
+
 Nicolini Carlos Alejandro DNI 26583013
+
 Passarelli Maximiliano DNI 35157088
+
 Silvestri Alejandro DNI 21522455
 
 # Summary
