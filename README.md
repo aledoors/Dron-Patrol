@@ -3,7 +3,7 @@ DRONES AND SATELLITES FOR URBAN DEVELOPMENT
 
 # Team: Morón, we have a problem
 
-Team members: 
+# Team members:
 Dlouhi Federico DNI 30223471
 Nicolini Carlos Alejandro DNI 26583013
 Passarelli Maximiliano DNI 35157088
